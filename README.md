@@ -1,4 +1,4 @@
-Yii PHP Framework Version 2
+HA HA Yii PHP Framework Version 2
 ===========================
 
 Thank you for choosing Yii 2 - a modern PHP framework designed for professional Web development.
